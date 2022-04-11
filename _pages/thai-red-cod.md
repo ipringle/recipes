@@ -1,4 +1,7 @@
 ---
+layout: page
+title: "Thai Red Cod Curry"
+permalink: /recipe/thai-red-cod-curry/
 tags:
     - cod
     - curry
