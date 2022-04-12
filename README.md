@@ -1,4 +1,3 @@
 # Recipes   
-Test GH pages site
-
  [Thai Red Cod Curry](./recipe/thai-red-cod-curry/)
+ [Banana Pancake](./recipe/banana-pancake)
