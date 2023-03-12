@@ -5,4 +5,4 @@
 
  [Prawn Linguine](./recipe/prawn-linguine)
 
- [Smoked Haddock Mac & Cheese] (./recipe/smoked-haddock-mac-cheese)
+ [Smoked Haddock Mac & Cheese](./recipe/smoked-haddock-mac-cheese)
