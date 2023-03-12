@@ -5,7 +5,7 @@ permalink: /recipe/smoked-haddock-mac-cheese/
 tags: [mac,cheese,haddock,fish]
 ---
 
-# Prawn Linguine
+# Smoked Haddock Mac & Cheese
 
 ## Ingredients
 
